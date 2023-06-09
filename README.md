@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="100"/></br>
-    Hello I'm Mostafa , A software Engineer 🧐
 </div>
 <h1 align="center">Hi 👋, I'm Mostafa Ahmed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaahmed22&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaahmed22" /> </p>
 
