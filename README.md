@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG"></br>
+  <img src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG">](https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG)
+</br>
 </div>
 <h1 align="center">Hi 👋, I'm Mostafa Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
