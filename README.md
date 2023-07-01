@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif](https://pin.it/6N0p4KU)" width="100"/></br>
+  <iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG">via GIPHY</a></p></br>
 </div>
 <h1 align="center">Hi 👋, I'm Mostafa Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
