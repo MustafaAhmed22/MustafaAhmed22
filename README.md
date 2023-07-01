@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="100"/></br>
+  <img src="[https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif](https://pin.it/6N0p4KU)" width="100"/></br>
 </div>
 <h1 align="center">Hi 👋, I'm Mostafa Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
