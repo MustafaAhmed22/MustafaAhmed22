@@ -1,9 +1,4 @@
-<div id="header" align="center">
-  <p align="center">
-  <img src="https://giphy.com/embed/dlMIwDQAxXn1K"/>
-</p>
-</br>
-</div>
+
 <h1 align="center">Hi 👋, I'm Mostafa Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
