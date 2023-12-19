@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/m_ahmed211" target="blank"><img src="https://img.shields.io/twitter/follow/m_ahmed211?logo=twitter&style=for-the-badge" alt="m_ahmed211" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS**
-- 🌱 I’m currently Working At Hive One
+- I’m currently Working At Hive One
 
 - 👨‍💻 All of my projects are available at [https://whatsappportfolio.netlify.app/](https://whatsappportfolio.netlify.app/)
 
